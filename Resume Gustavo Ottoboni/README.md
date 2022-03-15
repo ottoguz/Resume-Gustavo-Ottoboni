@@ -1,2 +1,2 @@
-# dev-resume-template
-Free resume template for developers
+# Resume: Gustavo Ottoboni
+This is my developer resume :)
